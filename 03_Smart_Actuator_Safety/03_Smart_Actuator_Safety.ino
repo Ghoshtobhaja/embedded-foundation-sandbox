@@ -25,7 +25,7 @@ void loop(){
   //4. SAFETY OVERRIDE LOGIC
   if (armAngle > 135){
     digitalWrite(warningLedPin, HIGH); //Danger zone : LED ON
-    Serial.println("WARNING: Safety Zone Exceeded!")
+    Serial.println("WARNING: Safety Zone Exceeded!");
   }else{
     digitalWrite(warningLedPin, LOW); //Safe zone : LED OFF
     Serial.print("Current Angle: ");
