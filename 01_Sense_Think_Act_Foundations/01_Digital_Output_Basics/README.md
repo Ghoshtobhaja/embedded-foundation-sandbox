@@ -32,4 +32,4 @@ This module demonstrates the most fundamental concept of controlling a physical 
 
 ![System Test](blink.jpeg)
 
-<video src="Blink_working.mp4" controls="controls" width="600"></video>
+[Click here to watch the Blink Test Video](Blink_working.mp4)
