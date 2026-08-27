@@ -33,3 +33,5 @@ This module demonstrates the most fundamental concept of controlling a physical 
 ![System Test](blink.jpeg)
 
 [Click here to watch the Blink Test Video](Blink_working.mp4)
+
+[Click here to watch the Serial Monitor of the project](Serial_Monitor_reading.mp4)
